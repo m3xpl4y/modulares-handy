@@ -6,7 +6,7 @@ namespace Modulares_Handy
     {
         static void Main(string[] args)
         {
-            
+            System.Console.WriteLine("Hallo Max!");
         }
     }
 }
